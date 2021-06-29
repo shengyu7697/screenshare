@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import flask
 import pyscreenshot as ImageGrab
 from io import BytesIO
